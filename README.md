@@ -1,4 +1,4 @@
-# IELTS Pro - Institute Homepage
+# F-IELTS - Institute Homepage
 
 A modern, responsive homepage for a fictional IELTS preparation institute built with React and Tailwind CSS.
 
